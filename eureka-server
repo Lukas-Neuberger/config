@@ -1,0 +1,9 @@
+# Konfiguration für den Eureka-Server
+server.port=8761
+
+# Eureka Client Konfiguration
+eureka.client.register-with-eureka=false
+eureka.client.fetch-registry=false
+
+# Eureka Server Konfiguration
+eureka.server.enable-self-preservation=false
