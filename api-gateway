@@ -1,5 +1,4 @@
 server.port=8081
-
 # Discovery aktivieren
 spring.cloud.discovery.enabled=true
 
